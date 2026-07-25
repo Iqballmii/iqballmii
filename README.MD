@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Iqbal%20Ilmi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Digital%20Forensics%20%7C%20CTF%20Player&descAlignY=58&descSize=18)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_2.png)
 
 # <img src="https://media.giphy.com/media/LOWZaRY3grAoSx33yu/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="70">
 

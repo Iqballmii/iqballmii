@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/blob/master/icons/header_2.png)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_2.png)
+
 # <img src="https://media.giphy.com/media/LOWZaRY3grAoSx33yu/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="70">
 
 > Hi! I'm **Iqbal Ilmi**, a student from **SMK Telkom Malang, Indonesia**.
@@ -8,22 +9,22 @@
 > I enjoy learning how systems work under the hood and believe the best way to learn is by building, breaking, and understanding technology.
 
 <p align="center">
-    <a href="https://github.com/iqballmii" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <a href="https://github.com/iqbaalilmii" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
     </a>
 
-    <a href="https://www.instagram.com/iqbaalilmii/" target="_blank">
+    <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
 
-![](https://visitcount.itsvg.in/api?id=iqballmii&icon=2&color=0)
+![](https://visitcount.itsvg.in/api?id=iqbaalilmii&icon=2&color=0)
 
 ---
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -38,21 +39,32 @@
 
 ---
 
+# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> Currently Learning
+
+- 🚩 Digital Forensics
+- 🐧 Linux Internals
+- 🌐 Network Security
+- 🔍 Malware Analysis
+- 🛡️ Active Directory Security
+- 💥 Binary Exploitation (Pwn)
+
+---
+
 # <img src="https://media.giphy.com/media/6F1VgalBl1TpwMrnvb/giphy.gif" width="70"> GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iqballmii&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=iqbaalilmii&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=iqballmii&theme=gotham&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iqbaalilmii&theme=gotham&hide_border=false)
 
-![](https://github-contributor-stats.vercel.app/api?username=iqballmii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=iqbaalilmii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballmii&theme=gotham&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalilmii&theme=gotham&hide_border=false&layout=compact)
 
 ---
 
 # <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=iqbvallmii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iqbaalilmii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 

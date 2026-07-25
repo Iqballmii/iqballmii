@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
+![](https://raw.githubusercontent.com/halfrost/halfrost/blob/master/icons/header_2.png)
 # <img src="https://media.giphy.com/media/LOWZaRY3grAoSx33yu/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="70">
 
 > Hi! I'm **Iqbal Ilmi**, a student from **SMK Telkom Malang, Indonesia**.
@@ -13,7 +12,7 @@
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
 
-    <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <a href="https://www.instagram.com/iqbaalilmii/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>

@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_2.png)
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="70">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
 
 > Hi! I'm **Iqbal Ilmi**, a student from **SMK Telkom Malang, Indonesia**.
 >

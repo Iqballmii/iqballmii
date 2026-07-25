@@ -1,6 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_2.png)
-
-# <img src="https://media.giphy.com/media/LOWZaRY3grAoSx33yu/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="70">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="70">
 
 > Hi! I'm **Iqbal Ilmi**, a student from **SMK Telkom Malang, Indonesia**.
 >
@@ -87,5 +86,3 @@
 # <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=100&section=footer)

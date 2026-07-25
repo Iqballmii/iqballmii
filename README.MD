@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_2.png)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Iqbal%20Ilmi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Digital%20Forensics%20%7C%20CTF%20Player&descAlignY=58&descSize=18)
 
 # <img src="https://media.giphy.com/media/LOWZaRY3grAoSx33yu/giphy.gif" width="70"> Hello, I'm Iqbal Ilmi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/FxAYkQqdw63hC/giphy.gif" width="70">
 
 > Hi! I'm **Iqbal Ilmi**, a student from **SMK Telkom Malang, Indonesia**.
 >
-> I'm passionate about **Cyber Security**, especially **Digital Forensics, Networking, Linux, and Capture The Flag (CTF)** competitions. Currently, I'm preparing for **LKS Cyber Security** while continuously improving my skills through hands-on labs, writeups, and real-world challenges.
+> I'm passionate about **Cyber Security**, especially **Digital Forensics, Networking, Linux, and Capture The Flag (CTF)** competitions. Currently, I'm preparing for **Capture The Flag Competitions** while continuously improving my skills through hands-on labs, writeups, and real-world challenges.
 >
 > I enjoy learning how systems work under the hood and believe the best way to learn is by building, breaking, and understanding technology.
 
@@ -12,8 +12,7 @@
     <a href="https://github.com/iqbaalilmii" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
     </a>
-
-    <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <a href="https://www.instagram.com/iqbaalilmii/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
@@ -24,7 +23,10 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -39,8 +41,25 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> Currently Learning
+## 🛠️ Technologies & Tools
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-2C2C2C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge&logo=ghidra&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2C2C2C?style=for-the-badge)
+
+---
+
+# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> Currently Learning
 - 🚩 Digital Forensics
 - 🐧 Linux Internals
 - 🌐 Network Security
@@ -53,11 +72,8 @@
 # <img src="https://media.giphy.com/media/6F1VgalBl1TpwMrnvb/giphy.gif" width="70"> GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=iqbaalilmii&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iqbaalilmii&theme=gotham&hide_border=false)
-
 ![](https://github-contributor-stats.vercel.app/api?username=iqbaalilmii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaalilmii&theme=gotham&hide_border=false&layout=compact)
 
 ---
@@ -71,3 +87,5 @@
 # <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=100&section=footer)
